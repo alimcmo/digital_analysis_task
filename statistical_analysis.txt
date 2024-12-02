@@ -1,0 +1,11 @@
+Statistical Analysis Results
+===========================
+
+T-statistic: -104.5451
+P-value: 0.0000
+
+First Orders Mean: £22.72
+Repeat Orders Mean: £38.95
+
+First Orders Std: £25.22
+Repeat Orders Std: £30.76

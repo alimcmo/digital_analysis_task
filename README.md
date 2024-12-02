@@ -1,4 +1,4 @@
-## PM Tech Test
+# PM Tech Test
 
 To install -
 
@@ -16,6 +16,8 @@ To run the bonus task first drag the `recruitmentOAuthID.json` file into the `au
 
 Then run -
 
-`poetry run python pm_tech_test/connect_bigquery.py
+`poetry run python pm_tech_test/connect_bigquery.py`
+
+
 
 

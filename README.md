@@ -1,25 +1,21 @@
 ## PM Tech Test
 
-Open the terminal by 'CMD + J' in VSCode/Cursor.
-
 To install -
 
 `poetry install`
 
-To run the test scripts -
 
-`cd pm_tech_test`
+## Create Visulisations and Analysis
 
-Test 1 -
-
-`poetry run python test_data.py`
-
-Test 2 -
-
-`poetry run python test_vis.py`
+`poetry run python pm_tech_test/create_final_visualisations.py`
 
 
-To add new packages just run -
+## Bonus Task
 
-`poetry add <package>`
+To run the bonus task first drag the `recruitmentOAuthID.json` file into the `auth` directory.
+
+Then run -
+
+`poetry run python pm_tech_test/connect_bigquery.py
+
 
